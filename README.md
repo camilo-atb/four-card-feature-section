@@ -25,7 +25,7 @@ El objetivo de este reto es lograr que los usuarios puedan:
 
 Aquí muestro el resultado del proyecto en una pantalla de escritorio:
 
-![](./4-proyecto-1/images/resultado.png)
+![](./images/resultado.png)
 
 ### Enlace al proyecto
 
